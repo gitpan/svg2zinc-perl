@@ -1,0 +1,7 @@
+- améliorer la présentation du mode test de svg2zinc.pl et notamment mettre 3-4 lignes avec ce qu'il est possible de faire!
+- tester les modules perl suivants:
+libxml-generator-perl (et voir aussi libxml-regexp-perl libxml-dom-perl)
+libxml-grove-perl
+libxml-writer-perl
+libxml-handler-composer-perl
+
